@@ -28,6 +28,7 @@ package com.chunk.oj.leetcode.medium;
  * Y A   H R
  * P     I
  *
+ * https://leetcode.com/problems/zigzag-conversion/description/
  */
 public class ZigZagConversion {
     public String convert(String s, int numRows) {
